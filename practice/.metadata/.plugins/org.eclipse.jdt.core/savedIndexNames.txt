@@ -1,0 +1,13 @@
+INDEX VERSION 1.131+/Users/doimasanari/Rock-Paper-Scissors/.metadata/.plugins/org.eclipse.jdt.core
+2384645975.index
+3997750043.index
+2480430679.index
+193725356.index
+1087527113.index
+3622984261.index
+965783468.index
+104332704.index
+2731794308.index
+3048998342.index
+3004280248.index
+3807503841.index
